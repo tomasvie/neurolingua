@@ -57,10 +57,10 @@ text-align: center;
 text-decoration: none; 
 font-size: 18px; 
 } 
-@media only screen and (max-width: 600px) { 
+/* @media only screen and (max-width: 600px) { 
 .columns { 
 width: 100%; 
-} 
+} */
 
 
 .footer {
